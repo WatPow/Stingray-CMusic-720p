@@ -1,0 +1,6 @@
+#EXTM3U
+#EXT-X-VERSION:6
+#EXT-X-INDEPENDENT-SEGMENTS
+#EXT-X-STREAM-INF:BANDWIDTH=3291200,CODECS="avc1.64001f,mp4a.40.2",RESOLUTION=1280x720,FRAME-RATE=29.970,AUDIO="audio_0"
+https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-62fbf197c67d52bddf74cc87/variant.m3u8?url=0d2fd4bf84b0fbd09e85c291ea9d0c8a-f6be97224dc127f1d08fce41a00b186b9f7c1be4641cac1bc06631098e9355b7d51ce8859fb44a77d620583095eea839e133295989c55a861c6f641fbdb988bc7ac49202f27162865188da97a264ec018fcae85068704b499dcf00771473b4fd&x-plex-token=sy1N_Ezj9F3zjF91beUZ&x-plex-advertising-identifier=&x-plex-advertising-donottrack=0&x-plex-provider-streaming-start=1719395761
+#EXT-X-MEDIA:TYPE=AUDIO,GROUP-ID="audio_0",CHANNELS="2",NAME="Audio",LANGUAGE="eng",DEFAULT=YES,AUTOSELECT=YES,URI="https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-62fbf197c67d52bddf74cc87/variant.m3u8?url=0d2fd4bf84b0fbd09e85c291ea9d0c8a-f6be97224dc127f1d08fce41a00b186b9f7c1be4641cac1bc06631098e9355b7d51ce8859fb44a77d620583095eea839e133295989c55a861c6f641fbdb988bc7ac49202f27162865188da97a264ec018fcae85068704b499dcf00771473b4fd&x-plex-token=sy1N_Ezj9F3zjF91beUZ&x-plex-advertising-identifier=&x-plex-advertising-donottrack=0&x-plex-provider-streaming-start=1719395761"
